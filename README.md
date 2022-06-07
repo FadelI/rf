@@ -1,4 +1,6 @@
 # rf
+This is a slightly modified version of the [rf](https://github.com/trichter/rf) package. I use it for research purposes within my research group. The next parts is the readme from the original package.
+
 ## Receiver function calculation in seismology
 [![build status](https://github.com/trichter/rf/workflows/tests/badge.svg)](https://github.com/trichter/rf/actions)
 [![codecov](https://codecov.io/gh/trichter/rf/branch/master/graph/badge.svg)](https://codecov.io/gh/trichter/rf)
